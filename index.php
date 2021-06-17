@@ -10,7 +10,7 @@ BONUS:
 2 Utilizzare almeno una proprietà e un metodo statico 
 -->
 
-<?
+<?php
 
   require_once __DIR__ .'/Movie.php';
 
